@@ -1,0 +1,46 @@
+.manage-details {
+    padding: 20px;
+}
+
+.manage-details h2 {
+    text-align: center;
+}
+
+.manage-details form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.manage-details form input {
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.manage-details table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.manage-details table, .manage-details th, .manage-details td {
+    border: 1px solid #99d4e6;
+    color: black;
+}
+
+.manage-details th, .manage-details td {
+    padding: 8px;
+    text-align: center;
+}
+
+.manage-details th {
+    background-color: #9cdde9;
+}
+
+.manage-details button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
