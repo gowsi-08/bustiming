@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bustiming/static/css/main.7841cc34.css",
+    "main.js": "/bustiming/static/js/main.7603fb8b.js",
+    "static/js/453.8384a7e5.chunk.js": "/bustiming/static/js/453.8384a7e5.chunk.js",
+    "index.html": "/bustiming/index.html",
+    "main.7841cc34.css.map": "/bustiming/static/css/main.7841cc34.css.map",
+    "main.7603fb8b.js.map": "/bustiming/static/js/main.7603fb8b.js.map",
+    "453.8384a7e5.chunk.js.map": "/bustiming/static/js/453.8384a7e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7841cc34.css",
+    "static/js/main.7603fb8b.js"
+  ]
+}
